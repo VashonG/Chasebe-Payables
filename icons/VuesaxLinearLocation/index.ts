@@ -1,0 +1,1 @@
+export { VuesaxLinearLocation } from "./VuesaxLinearLocation";
