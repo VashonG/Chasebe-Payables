@@ -1,0 +1,390 @@
+.dashboard {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.dashboard .div-2 {
+  background-color: #ffffff;
+  border: 0px none;
+  height: 900px;
+  position: relative;
+  width: 1440px;
+}
+
+.dashboard .item-5 {
+  height: 162px;
+  left: 900px;
+  position: absolute;
+  top: 603px;
+  width: 390px;
+}
+
+.dashboard .text-wrapper-5 {
+  color: #202020;
+  font-family: "Poppins", Helvetica;
+  font-size: 18px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.dashboard .linked-account-instance {
+  left: 0 !important;
+  position: absolute !important;
+  top: 50px !important;
+}
+
+.dashboard .button-2 {
+  height: 24px;
+  left: 0;
+  position: absolute;
+  top: 138px;
+  width: 199px;
+}
+
+.dashboard .text-2 {
+  height: 24px;
+  position: relative;
+}
+
+.dashboard .text-wrapper-6 {
+  color: #0d7cff;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.dashboard .item-6 {
+  height: 154px;
+  left: 900px;
+  position: absolute;
+  top: 401px;
+  width: 390px;
+}
+
+.dashboard .check-out-when-funds {
+  color: #474549;
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 50px;
+  white-space: nowrap;
+  width: 390px;
+}
+
+.dashboard .button-3 {
+  height: 24px;
+  left: 0;
+  position: absolute;
+  top: 130px;
+  width: 144px;
+}
+
+.dashboard .item-7 {
+  height: 178px;
+  left: 900px;
+  overflow: hidden;
+  position: absolute;
+  top: 175px;
+  width: 390px;
+}
+
+.dashboard .item-8 {
+  background-color: #f4f7f7;
+  border-radius: 24px;
+  height: 128px;
+  left: 100px;
+  overflow: hidden;
+  position: absolute;
+  top: 50px;
+  width: 91px;
+}
+
+.dashboard .image-2 {
+  background-color: #f7be51;
+  border-radius: 24px;
+  height: 48px;
+  left: 21px;
+  position: absolute;
+  top: 16px;
+  width: 48px;
+}
+
+.dashboard .leah-edwards {
+  color: #474549;
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 72px;
+}
+
+.dashboard .item-9 {
+  background-color: #f4f7f7;
+  border-radius: 24px;
+  height: 128px;
+  left: 299px;
+  overflow: hidden;
+  position: absolute;
+  top: 50px;
+  width: 91px;
+}
+
+.dashboard .mike-townse {
+  color: #474549;
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 72px;
+}
+
+.dashboard .item-10 {
+  background-color: #f4f7f7;
+  border-radius: 24px;
+  height: 128px;
+  left: 199px;
+  overflow: hidden;
+  position: absolute;
+  top: 50px;
+  width: 91px;
+}
+
+.dashboard .ic-person-wrapper {
+  background-color: #ffffff;
+  border-radius: 24px;
+  height: 48px;
+  left: 21px;
+  position: absolute;
+  top: 16px;
+  width: 48px;
+}
+
+.dashboard .ic-person {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/9e570af1ed9e3b08a958a4d8ae789ce9/img/bounds-7@2x.png);
+  background-size: 100% 100%;
+  height: 27px;
+  left: -1066px;
+  position: relative;
+  top: -160px;
+  width: 27px;
+}
+
+.dashboard .shape-5 {
+  height: 18px;
+  left: 5px;
+  position: absolute;
+  top: 5px;
+  width: 18px;
+}
+
+.dashboard .eugene-hughes {
+  color: #474549;
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 17px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 72px;
+}
+
+.dashboard .item-11 {
+  height: 128px;
+  left: -1px;
+  position: absolute;
+  top: 50px;
+  width: 92px;
+}
+
+.dashboard .overlap-6 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #0d7cff;
+  border-radius: 24px;
+  height: 130px;
+  left: 0;
+  position: absolute;
+  top: -1px;
+  width: 93px;
+}
+
+.dashboard .manual-wrapper {
+  height: 42px;
+  left: -1px;
+  overflow: hidden;
+  position: relative;
+  top: 82px;
+  width: 92px;
+}
+
+.dashboard .manual {
+  color: #0d7cff;
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  left: -1px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 11px;
+  width: 95px;
+}
+
+.dashboard .ic-credit-card {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/9e570af1ed9e3b08a958a4d8ae789ce9/img/bounds-7@2x.png);
+  background-size: 100% 100%;
+  height: 32px;
+  left: -847px;
+  position: absolute;
+  top: -97px;
+  width: 32px;
+}
+
+.dashboard .overlap-group-4 {
+  height: 25px;
+  left: 3px;
+  position: relative;
+  top: 4px;
+  width: 27px;
+}
+
+.dashboard .shape-6 {
+  height: 18px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 27px;
+}
+
+.dashboard .ic-swap-horiz {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/9e570af1ed9e3b08a958a4d8ae789ce9/img/shape-4.svg);
+  background-size: 100% 100%;
+  height: 12px;
+  left: 5px;
+  position: absolute;
+  top: 13px;
+  width: 17px;
+}
+
+.dashboard .transaction-list-instance {
+  left: 150px !important;
+  position: absolute !important;
+  top: 401px !important;
+}
+
+.dashboard .design-component-instance-node {
+  background-color: unset !important;
+  border-radius: unset !important;
+  left: 0 !important;
+  overflow: unset !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.dashboard .transaction-list-2 {
+  background-color: unset !important;
+  border-radius: unset !important;
+  overflow: unset !important;
+}
+
+.dashboard .good-morning-eureka {
+  color: #202020;
+  font-family: "Poppins", Helvetica;
+  font-size: 36px;
+  font-weight: 500;
+  left: 150px;
+  letter-spacing: 0;
+  line-height: 48px;
+  position: absolute;
+  top: 128px;
+  white-space: nowrap;
+}
+
+.dashboard .item-instance {
+  left: 150px !important;
+  position: absolute !important;
+  top: 208px !important;
+}
+
+.dashboard .overlap-7 {
+  height: 85px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.dashboard .topbar-instance {
+  background-color: unset !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.dashboard .topbar-2 {
+  height: 29px !important;
+  left: 1px !important;
+  top: 2px !important;
+  width: 29px !important;
+}
+
+.dashboard .topbar-3 {
+  left: 14px !important;
+  top: 0 !important;
+}
+
+.dashboard .topbar-4 {
+  left: 1px !important;
+  top: 0 !important;
+}
+
+.dashboard .topbar-5 {
+  border-color: unset !important;
+  height: 16px !important;
+  left: 0 !important;
+  top: 13px !important;
+  width: 16px !important;
+}
+
+.dashboard .topbar-6 {
+  left: 14px !important;
+  top: 1px !important;
+}
+
+.dashboard .chasebe {
+  height: 85px;
+  left: 131px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 150px;
+}

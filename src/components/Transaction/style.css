@@ -1,0 +1,78 @@
+.transaction {
+  background-color: #ffffff00;
+  border-radius: 16px;
+  height: 72px;
+  overflow: hidden;
+  position: relative;
+  width: 682px;
+}
+
+.transaction .overlap-group {
+  background-color: #e50914;
+  border-radius: 12px;
+  height: 40px;
+  left: 16px;
+  position: absolute;
+  top: 16px;
+  width: 40px;
+}
+
+.transaction .netflix {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/9e570af1ed9e3b08a958a4d8ae789ce9/img/combined-shape-2.svg);
+  background-size: 100% 100%;
+  height: 8px;
+  left: 6px;
+  position: relative;
+  top: 16px;
+  width: 28px;
+}
+
+.transaction .element-oct {
+  color: #84818a;
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 588px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 37px;
+}
+
+.transaction .text-wrapper {
+  color: #202020;
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  left: 72px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 15px;
+}
+
+.transaction .div {
+  color: #202020;
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  left: 593px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 15px;
+}
+
+.transaction .entertainment {
+  color: #474549;
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 72px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 37px;
+}

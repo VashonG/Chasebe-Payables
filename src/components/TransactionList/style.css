@@ -1,0 +1,254 @@
+.transaction-list {
+  height: 458px;
+  position: relative;
+  width: 682px;
+}
+
+.transaction-list .list {
+  height: 408px;
+  left: 0;
+  position: absolute;
+  top: 50px;
+  width: 682px;
+}
+
+.transaction-list .item-2 {
+  background-color: #ffffff00;
+  border-radius: 16px;
+  height: 72px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 336px;
+  width: 682px;
+}
+
+.transaction-list .overlap {
+  background-color: #00dd4d;
+  border-radius: 12px;
+  height: 40px;
+  left: 16px;
+  position: absolute;
+  top: 16px;
+  width: 40px;
+}
+
+.transaction-list .spotify {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/9e570af1ed9e3b08a958a4d8ae789ce9/img/fill-185-1.svg);
+  background-size: 100% 100%;
+  height: 20px;
+  left: 10px;
+  position: relative;
+  top: 10px;
+  width: 20px;
+}
+
+.transaction-list .element-may {
+  color: #84818a;
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 587px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 37px;
+}
+
+.transaction-list .text-wrapper-2 {
+  color: #202020;
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  left: 72px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 15px;
+}
+
+.transaction-list .element-2 {
+  color: #202020;
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  left: 593px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 15px;
+}
+
+.transaction-list .text-wrapper-3 {
+  color: #474549;
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 72px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 37px;
+}
+
+.transaction-list .item-3 {
+  background-color: #ffffff00;
+  border-radius: 16px;
+  height: 72px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 168px;
+  width: 682px;
+}
+
+.transaction-list .image {
+  background-color: #f7be51;
+  border-radius: 20px;
+  height: 40px;
+  left: 16px;
+  position: absolute;
+  top: 16px;
+  width: 40px;
+}
+
+.transaction-list .element-nov {
+  color: #84818a;
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 589px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 37px;
+}
+
+.transaction-list .element-3 {
+  color: #00dd4d;
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  left: 591px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 15px;
+}
+
+.transaction-list .item-4 {
+  background-color: #ffffff00;
+  border-radius: 16px;
+  height: 72px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 252px;
+  width: 682px;
+}
+
+.transaction-list .element-dec {
+  color: #84818a;
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 585px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 37px;
+}
+
+.transaction-list .overlap-wrapper {
+  height: 72px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 84px;
+  width: 682px;
+}
+
+.transaction-list .overlap-2 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #dbdadd;
+  border-radius: 16px;
+  height: 74px;
+  left: -1px;
+  position: relative;
+  top: -1px;
+  width: 684px;
+}
+
+.transaction-list .apple-wrapper {
+  background-color: #000000;
+  border-radius: 12px;
+  height: 40px;
+  left: 17px;
+  position: absolute;
+  top: 17px;
+  width: 40px;
+}
+
+.transaction-list .apple {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/9e570af1ed9e3b08a958a4d8ae789ce9/img/apple-1.svg);
+  background-size: 100% 100%;
+  height: 20px;
+  left: 11px;
+  position: relative;
+  top: 9px;
+  width: 17px;
+}
+
+.transaction-list .element-apr {
+  color: #84818a;
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 588px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 37px;
+}
+
+.transaction-list .transaction-history {
+  color: #202020;
+  font-family: "Poppins", Helvetica;
+  font-size: 18px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.transaction-list .text {
+  height: 20px;
+  left: 581px;
+  overflow: hidden;
+  position: absolute;
+  top: 3px;
+  width: 101px;
+}
+
+.transaction-list .all-transaction {
+  color: #0d7cff;
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 0;
+}

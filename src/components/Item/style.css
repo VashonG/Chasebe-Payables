@@ -1,0 +1,177 @@
+.item {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/9e570af1ed9e3b08a958a4d8ae789ce9/img/base-1.png);
+  background-size: 100% 100%;
+  height: 145px;
+  position: relative;
+  width: 682px;
+}
+
+.item .overlap-3 {
+  height: 153px;
+  left: -4px;
+  position: absolute;
+  top: 0;
+  width: 690px;
+}
+
+.item .button {
+  background-color: #ffffff;
+  border-radius: 12px;
+  height: 40px;
+  left: 472px;
+  overflow: hidden;
+  position: absolute;
+  top: 53px;
+  width: 134px;
+}
+
+.item .transfer-funds {
+  color: #202020;
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  left: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 10px;
+}
+
+.item .hero-bg {
+  height: 153px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 690px;
+}
+
+.item .element-wrapper {
+  height: 45px;
+  left: 56px;
+  overflow: hidden;
+  position: absolute;
+  top: 68px;
+  width: 131px;
+}
+
+.item .element-4 {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 32px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.item .overlap-group-wrapper {
+  height: 24px;
+  left: 195px;
+  position: absolute;
+  top: 79px;
+  width: 72px;
+}
+
+.item .overlap-group-2 {
+  border-radius: 8px;
+  height: 24px;
+  position: relative;
+}
+
+.item .available-wrapper {
+  height: 17px;
+  left: 8px;
+  opacity: 0.64;
+  position: absolute;
+  top: 2px;
+  width: 56px;
+}
+
+.item .available {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 17px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+}
+
+.item .base {
+  background-color: #ffa801;
+  border-radius: 8px;
+  height: 24px;
+  left: 0;
+  opacity: 0.16;
+  position: absolute;
+  top: 0;
+  width: 72px;
+}
+
+.item .div-wrapper {
+  height: 32px;
+  left: 36px;
+  position: absolute;
+  top: 68px;
+  width: 16px;
+}
+
+.item .element-5 {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 24px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 32px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.item .coboid-balance-wrapper {
+  height: 20px;
+  left: 36px;
+  overflow: hidden;
+  position: absolute;
+  top: 32px;
+  width: 162px;
+}
+
+.item .coboid-balance {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  left: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 162px;
+}
+
+.item .ic-more-vert {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/9e570af1ed9e3b08a958a4d8ae789ce9/img/bounds-5@2x.png);
+  background-size: 100% 100%;
+  height: 24px;
+  left: 498px;
+  position: absolute;
+  top: -93px;
+  width: 24px;
+}
+
+.item .img {
+  height: 4px;
+  left: 4px;
+  position: absolute;
+  top: 10px;
+  width: 16px;
+}

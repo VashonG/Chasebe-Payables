@@ -1,0 +1,73 @@
+.linked-account {
+  background-color: #f4f7f7;
+  border-radius: 16px;
+  height: 80px;
+  overflow: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.linked-account .bank-mandiri-TBK {
+  color: #202020;
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  left: 76px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 19px;
+}
+
+.linked-account .element {
+  color: #202020;
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  left: 312px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 19px;
+}
+
+.linked-account .giro {
+  color: #474549;
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 76px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 41px;
+}
+
+.linked-account .ic-account-balance-wrapper {
+  background-color: #ffffff;
+  border-radius: 24px;
+  height: 48px;
+  left: 16px;
+  position: absolute;
+  top: 16px;
+  width: 48px;
+}
+
+.linked-account .ic-account-balance {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/9e570af1ed9e3b08a958a4d8ae789ce9/img/bounds-1@2x.png);
+  background-size: 100% 100%;
+  height: 24px;
+  left: -866px;
+  position: relative;
+  top: -587px;
+  width: 24px;
+}
+
+.linked-account .shape {
+  height: 21px;
+  left: 2px;
+  position: absolute;
+  top: 1px;
+  width: 20px;
+}

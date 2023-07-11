@@ -1,0 +1,1 @@
+export { LinkedAccount } from "./LinkedAccount";
