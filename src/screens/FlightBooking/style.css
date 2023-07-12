@@ -1,0 +1,1884 @@
+.flight-booking {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.flight-booking .overlap-wrapper {
+  background-color: #ffffff;
+  border: 1px none;
+  height: 1117px;
+  overflow: hidden;
+  width: 1442px;
+}
+
+.flight-booking .overlap-2 {
+  height: 1254px;
+  position: relative;
+}
+
+.flight-booking .overlap-3 {
+  height: 1250px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1442px;
+}
+
+.flight-booking .rectangle {
+  background-color: #f4f7ff;
+  height: 1037px;
+  left: 1062px;
+  opacity: 0.4;
+  position: absolute;
+  top: 80px;
+  width: 380px;
+}
+
+.flight-booking .vector {
+  height: 1037px;
+  left: 1062px;
+  position: absolute;
+  top: 80px;
+  width: 1px;
+}
+
+.flight-booking .vector-2 {
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 80px;
+  width: 1062px;
+}
+
+.flight-booking .group {
+  height: 486px;
+  left: 1094px;
+  position: absolute;
+  top: 764px;
+  width: 318px;
+}
+
+.flight-booking .text-wrapper-2 {
+  color: #001b45;
+  font-family: "Manrope", Helvetica;
+  font-size: 20px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.flight-booking .overlap-group-wrapper {
+  height: 213px;
+  left: 0;
+  position: absolute;
+  top: 44px;
+  width: 336px;
+}
+
+.flight-booking .overlap-4 {
+  background-image: url(../../../static/img/subtract-1.svg);
+  background-size: 100% 100%;
+  height: 321px;
+  left: -54px;
+  position: relative;
+  top: -50px;
+  width: 402px;
+}
+
+.flight-booking .overlap-5 {
+  height: 6px;
+  left: 136px;
+  position: absolute;
+  top: 93px;
+  width: 151px;
+}
+
+.flight-booking .vector-3 {
+  height: 2px;
+  left: 3px;
+  position: absolute;
+  top: 2px;
+  width: 145px;
+}
+
+.flight-booking .ellipse {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #001b45;
+  border-radius: 3px;
+  height: 6px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 6px;
+}
+
+.flight-booking .ellipse-2 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #001b45;
+  border-radius: 3px;
+  height: 6px;
+  left: 145px;
+  position: absolute;
+  top: 0;
+  width: 6px;
+}
+
+.flight-booking .text-wrapper-3 {
+  color: #001b45;
+  font-family: "Manrope", Helvetica;
+  font-size: 18px;
+  font-weight: 700;
+  left: 72px;
+  letter-spacing: 0.22px;
+  line-height: 28px;
+  position: absolute;
+  top: 68px;
+  white-space: nowrap;
+}
+
+.flight-booking .text-wrapper-4 {
+  color: #000814;
+  font-family: "Manrope", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 72px;
+  letter-spacing: 0;
+  line-height: 16px;
+  opacity: 0.6;
+  position: absolute;
+  top: 100px;
+  white-space: nowrap;
+}
+
+.flight-booking .text-wrapper-5 {
+  color: #000814;
+  font-family: "Manrope", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 319px;
+  letter-spacing: 0;
+  line-height: 16px;
+  opacity: 0.6;
+  position: absolute;
+  top: 100px;
+  white-space: nowrap;
+}
+
+.flight-booking .text-wrapper-6 {
+  color: #000814;
+  font-family: "Manrope", Helvetica;
+  font-size: 10px;
+  font-weight: 500;
+  left: 195px;
+  letter-spacing: 0;
+  line-height: 16px;
+  opacity: 0.56;
+  position: absolute;
+  top: 72px;
+  white-space: nowrap;
+}
+
+.flight-booking .text-wrapper-7 {
+  color: #000814;
+  font-family: "Manrope", Helvetica;
+  font-size: 18px;
+  font-weight: 700;
+  left: 72px;
+  letter-spacing: 0;
+  line-height: 28px;
+  opacity: 0.7;
+  position: absolute;
+  top: 149px;
+  white-space: nowrap;
+}
+
+.flight-booking .text-wrapper-8 {
+  color: #000814;
+  font-family: "Manrope", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  left: 112px;
+  letter-spacing: 0.18px;
+  line-height: 24px;
+  opacity: 0.5;
+  position: absolute;
+  top: 217px;
+  white-space: nowrap;
+}
+
+.flight-booking .text-wrapper-9 {
+  color: #000814;
+  font-family: "Manrope", Helvetica;
+  font-size: 18px;
+  font-weight: 700;
+  left: 300px;
+  letter-spacing: 0;
+  line-height: 28px;
+  opacity: 0.7;
+  position: absolute;
+  top: 149px;
+  white-space: nowrap;
+}
+
+.flight-booking .text-wrapper-10 {
+  color: #000814;
+  font-family: "Manrope", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 72px;
+  letter-spacing: 0;
+  line-height: 16px;
+  opacity: 0.7;
+  position: absolute;
+  top: 128px;
+  white-space: nowrap;
+}
+
+.flight-booking .text-wrapper-11 {
+  color: #000814;
+  font-family: "Manrope", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 303px;
+  letter-spacing: 0;
+  line-height: 16px;
+  opacity: 0.7;
+  position: absolute;
+  top: 128px;
+  white-space: nowrap;
+}
+
+.flight-booking .text-wrapper-12 {
+  color: #6345d5;
+  font-family: "Manrope", Helvetica;
+  font-size: 18px;
+  font-weight: 700;
+  left: 315px;
+  letter-spacing: 0.22px;
+  line-height: 28px;
+  position: absolute;
+  top: 68px;
+  white-space: nowrap;
+}
+
+.flight-booking .vector-4 {
+  height: 1px;
+  left: 66px;
+  object-fit: cover;
+  position: absolute;
+  top: 194px;
+  width: 292px;
+}
+
+.flight-booking .div-wrapper {
+  background-color: #fdb300;
+  border-radius: 8px;
+  height: 32px;
+  left: 72px;
+  position: absolute;
+  top: 213px;
+  width: 32px;
+}
+
+.flight-booking .overlap-group-2 {
+  height: 27px;
+  left: 8px;
+  position: relative;
+  top: 3px;
+  width: 14px;
+}
+
+.flight-booking .rectangle-2 {
+  background-color: #ffffff;
+  border-radius: 3.43px;
+  height: 6px;
+  left: -8px;
+  position: absolute;
+  top: 8px;
+  transform: rotate(-90deg);
+  width: 21px;
+}
+
+.flight-booking .rectangle-3 {
+  background-color: #ffffff;
+  border-radius: 3.43px;
+  height: 6px;
+  left: 1px;
+  position: absolute;
+  top: 13px;
+  transform: rotate(-90deg);
+  width: 21px;
+}
+
+.flight-booking .group-2 {
+  height: 213px;
+  left: 0;
+  position: absolute;
+  top: 273px;
+  width: 334px;
+}
+
+.flight-booking .overlap-6 {
+  height: 144px;
+  left: -54px;
+  position: absolute;
+  top: -50px;
+  width: 402px;
+}
+
+.flight-booking .subtract {
+  height: 130px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 402px;
+}
+
+.flight-booking .vector-5 {
+  height: 2px;
+  left: 139px;
+  position: absolute;
+  top: 95px;
+  width: 145px;
+}
+
+.flight-booking .ellipse-3 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #001b45;
+  border-radius: 3px;
+  height: 6px;
+  left: 136px;
+  position: absolute;
+  top: 93px;
+  width: 6px;
+}
+
+.flight-booking .ellipse-4 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #001b45;
+  border-radius: 3px;
+  height: 6px;
+  left: 281px;
+  position: absolute;
+  top: 93px;
+  width: 6px;
+}
+
+.flight-booking .text-wrapper-13 {
+  color: #000000;
+  font-family: "Manrope", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 72px;
+  letter-spacing: 0;
+  line-height: 16px;
+  opacity: 0.6;
+  position: absolute;
+  top: 100px;
+  white-space: nowrap;
+}
+
+.flight-booking .text-wrapper-14 {
+  color: #000000;
+  font-family: "Manrope", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 304px;
+  letter-spacing: 0;
+  line-height: 16px;
+  opacity: 0.6;
+  position: absolute;
+  top: 100px;
+  white-space: nowrap;
+}
+
+.flight-booking .text-wrapper-15 {
+  color: #000000;
+  font-family: "Manrope", Helvetica;
+  font-size: 10px;
+  font-weight: 500;
+  left: 195px;
+  letter-spacing: 0;
+  line-height: 16px;
+  opacity: 0.5;
+  position: absolute;
+  top: 72px;
+  white-space: nowrap;
+}
+
+.flight-booking .text-wrapper-16 {
+  color: #000000;
+  font-family: "Manrope", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 72px;
+  letter-spacing: 0;
+  line-height: 16px;
+  opacity: 0.7;
+  position: absolute;
+  top: 128px;
+  white-space: nowrap;
+}
+
+.flight-booking .text-wrapper-17 {
+  color: #000000;
+  font-family: "Manrope", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 303px;
+  letter-spacing: 0;
+  line-height: 16px;
+  opacity: 0.7;
+  position: absolute;
+  top: 128px;
+  white-space: nowrap;
+}
+
+.flight-booking .text-wrapper-18 {
+  color: #6345d5;
+  font-family: "Manrope", Helvetica;
+  font-size: 18px;
+  font-weight: 700;
+  left: 316px;
+  letter-spacing: 0.22px;
+  line-height: 28px;
+  position: absolute;
+  top: 68px;
+  white-space: nowrap;
+}
+
+.flight-booking .text-wrapper-19 {
+  color: #000000;
+  font-family: "Manrope", Helvetica;
+  font-size: 18px;
+  font-weight: 700;
+  left: 18px;
+  letter-spacing: 0;
+  line-height: 28px;
+  opacity: 0.7;
+  position: absolute;
+  top: 99px;
+  white-space: nowrap;
+}
+
+.flight-booking .text-wrapper-20 {
+  color: #000000;
+  font-family: "Manrope", Helvetica;
+  font-size: 18px;
+  font-weight: 700;
+  left: 244px;
+  letter-spacing: 0;
+  line-height: 28px;
+  opacity: 0.7;
+  position: absolute;
+  top: 99px;
+  white-space: nowrap;
+}
+
+.flight-booking .vector-6 {
+  height: 1px;
+  left: 598px;
+  object-fit: cover;
+  position: absolute;
+  top: -1314px;
+  width: 292px;
+}
+
+.flight-booking .group-3 {
+  background-color: #feac23;
+  border-radius: 8px;
+  height: 32px;
+  left: 18px;
+  position: absolute;
+  top: 163px;
+  width: 32px;
+}
+
+.flight-booking .group-4 {
+  height: 344px;
+  left: 1094px;
+  position: absolute;
+  top: 396px;
+  width: 316px;
+}
+
+.flight-booking .group-5 {
+  height: 124px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 326px;
+}
+
+.flight-booking .text-wrapper-21 {
+  color: #130847;
+  font-family: "Manrope", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  top: 38px;
+  white-space: nowrap;
+}
+
+.flight-booking .overlap-7 {
+  background-color: #001b45;
+  border-radius: 4px;
+  height: 24px;
+  left: 231px;
+  position: absolute;
+  top: 16px;
+  width: 85px;
+}
+
+.flight-booking .text-wrapper-22 {
+  color: #ffffff;
+  font-family: "Manrope", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  left: 18px;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  top: 4px;
+  white-space: nowrap;
+}
+
+.flight-booking .group-6 {
+  height: 42px;
+  left: 1px;
+  opacity: 0.4;
+  position: absolute;
+  top: 76px;
+  width: 29px;
+}
+
+.flight-booking .text-wrapper-23 {
+  color: #000814;
+  font-family: "Manrope", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  left: 4px;
+  letter-spacing: 0.08px;
+  line-height: 20px;
+  position: absolute;
+  top: 22px;
+  white-space: nowrap;
+}
+
+.flight-booking .text-wrapper-24 {
+  color: #000814;
+  font-family: "Manrope", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.flight-booking .overlap-group-3 {
+  background-color: #ffffff;
+  border-radius: 4px;
+  box-shadow: 0px 4px 24px #0000000d;
+  height: 54px;
+  left: 50px;
+  position: absolute;
+  top: 70px;
+  width: 42px;
+}
+
+.flight-booking .text-wrapper-25 {
+  color: #000814;
+  font-family: "Manrope", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  left: 12px;
+  letter-spacing: 0.08px;
+  line-height: 20px;
+  position: absolute;
+  top: 28px;
+  white-space: nowrap;
+}
+
+.flight-booking .text-wrapper-26 {
+  color: #000814;
+  font-family: "Manrope", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 5px;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.flight-booking .group-7 {
+  height: 42px;
+  left: 116px;
+  opacity: 0.9;
+  position: absolute;
+  top: 76px;
+  width: 19px;
+}
+
+.flight-booking .text-wrapper-27 {
+  color: #000814;
+  font-family: "Manrope", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0.08px;
+  line-height: 20px;
+  position: absolute;
+  top: 22px;
+  white-space: nowrap;
+}
+
+.flight-booking .text-wrapper-28 {
+  color: #000814;
+  font-family: "Manrope", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 1px;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.flight-booking .group-8 {
+  height: 42px;
+  left: 155px;
+  position: absolute;
+  top: 76px;
+  width: 23px;
+}
+
+.flight-booking .text-wrapper-29 {
+  color: #000814;
+  font-family: "Manrope", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  left: 2px;
+  letter-spacing: 0.08px;
+  line-height: 20px;
+  position: absolute;
+  top: 22px;
+  white-space: nowrap;
+}
+
+.flight-booking .group-9 {
+  height: 42px;
+  left: 198px;
+  opacity: 0.9;
+  position: absolute;
+  top: 76px;
+  width: 26px;
+}
+
+.flight-booking .group-10 {
+  height: 42px;
+  left: 244px;
+  opacity: 0.6;
+  position: absolute;
+  top: 76px;
+  width: 29px;
+}
+
+.flight-booking .group-11 {
+  height: 42px;
+  left: 293px;
+  opacity: 0.4;
+  position: absolute;
+  top: 76px;
+  width: 25px;
+}
+
+.flight-booking .text-wrapper-30 {
+  color: #000814;
+  font-family: "Manrope", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  left: 1px;
+  letter-spacing: 0.08px;
+  line-height: 20px;
+  position: absolute;
+  top: 22px;
+  white-space: nowrap;
+}
+
+.flight-booking .group-12 {
+  height: 100px;
+  left: 16px;
+  position: absolute;
+  top: 148px;
+  width: 302px;
+}
+
+.flight-booking .element-am {
+  color: #130847;
+  font-family: "Manrope", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  text-align: right;
+  top: 34px;
+}
+
+.flight-booking .group-13 {
+  height: 100px;
+  left: 41px;
+  position: absolute;
+  top: 0;
+  width: 263px;
+}
+
+.flight-booking .overlap-group-4 {
+  height: 100px;
+  position: relative;
+  width: 259px;
+}
+
+.flight-booking .rectangle-4 {
+  background-color: #001b45;
+  border-radius: 8px;
+  height: 100px;
+  left: 16px;
+  position: absolute;
+  top: 0;
+  width: 243px;
+}
+
+.flight-booking .vector-7 {
+  height: 2px;
+  left: 3px;
+  position: absolute;
+  top: 76px;
+  width: 256px;
+}
+
+.flight-booking .ellipse-5 {
+  background-color: #010f25;
+  border-radius: 3px;
+  height: 6px;
+  left: 0;
+  position: absolute;
+  top: 74px;
+  width: 6px;
+}
+
+.flight-booking .text-wrapper-31 {
+  color: #ffffff;
+  font-family: "Manrope", Helvetica;
+  font-size: 18px;
+  font-weight: 700;
+  left: 32px;
+  letter-spacing: 0.22px;
+  line-height: 28px;
+  position: absolute;
+  top: 16px;
+  white-space: nowrap;
+}
+
+.flight-booking .p {
+  color: #ffffff;
+  font-family: "Manrope", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 32px;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  top: 48px;
+  white-space: nowrap;
+}
+
+.flight-booking .group-14 {
+  height: 80px;
+  left: 18px;
+  position: absolute;
+  top: 264px;
+  width: 304px;
+}
+
+.flight-booking .element-am-2 {
+  color: #130847;
+  font-family: "Manrope", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  text-align: right;
+  top: 24px;
+}
+
+.flight-booking .overlap-8 {
+  background-color: #fdb300;
+  border-radius: 8px;
+  height: 80px;
+  left: 55px;
+  position: absolute;
+  top: 0;
+  width: 243px;
+}
+
+.flight-booking .text-wrapper-32 {
+  color: #ffffff;
+  font-family: "Manrope", Helvetica;
+  font-size: 18px;
+  font-weight: 700;
+  left: 16px;
+  letter-spacing: 0.22px;
+  line-height: 28px;
+  position: absolute;
+  top: 16px;
+  white-space: nowrap;
+}
+
+.flight-booking .text-wrapper-33 {
+  color: #ffffff;
+  font-family: "Manrope", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 16px;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  top: 48px;
+  white-space: nowrap;
+}
+
+.flight-booking .topbar-instance {
+  background-color: unset !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.flight-booking .design-component-instance-node {
+  height: 29px !important;
+  left: 1px !important;
+  top: 2px !important;
+  width: 29px !important;
+}
+
+.flight-booking .topbar-2 {
+  left: 14px !important;
+  top: 0 !important;
+}
+
+.flight-booking .topbar-3 {
+  left: 1px !important;
+  top: 0 !important;
+}
+
+.flight-booking .topbar-4 {
+  border-color: unset !important;
+  height: 16px !important;
+  left: 0 !important;
+  top: 13px !important;
+  width: 16px !important;
+}
+
+.flight-booking .topbar-5 {
+  left: 14px !important;
+  top: 1px !important;
+}
+
+.flight-booking .mask {
+  height: 256px;
+  left: 1077px;
+  object-fit: cover;
+  position: absolute;
+  top: 96px;
+  width: 348px;
+}
+
+.flight-booking .chasebe {
+  height: 80px;
+  left: 102px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 200px;
+}
+
+.flight-booking .text-wrapper-34 {
+  color: #001b45;
+  font-family: "Manrope", Helvetica;
+  font-size: 20px;
+  font-weight: 600;
+  left: 6px;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: absolute;
+  top: 905px;
+  white-space: nowrap;
+}
+
+.flight-booking .group-15 {
+  height: 180px;
+  left: 6px;
+  position: absolute;
+  top: 112px;
+  width: 1026px;
+}
+
+.flight-booking .group-16 {
+  height: 136px;
+  left: 0;
+  position: absolute;
+  top: 44px;
+  width: 1038px;
+}
+
+.flight-booking .overlap-9 {
+  background-color: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0px 10px 54px #0000000d;
+  height: 136px;
+  position: relative;
+  width: 1024px;
+}
+
+.flight-booking .overlap-10 {
+  background-color: #ffffff;
+  border: 0.5px solid;
+  border-color: #00000033;
+  border-radius: 8px;
+  height: 48px;
+  left: 24px;
+  position: absolute;
+  top: 64px;
+  width: 272px;
+}
+
+.flight-booking .text-wrapper-35 {
+  color: #000814;
+  font-family: "Manrope", Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  left: 42px;
+  letter-spacing: 0.08px;
+  line-height: 20px;
+  opacity: 0.5;
+  position: absolute;
+  top: 14px;
+  white-space: nowrap;
+}
+
+.flight-booking .ellipse-wrapper {
+  background-color: #001b451a;
+  border-radius: 8px;
+  height: 16px;
+  left: 16px;
+  position: absolute;
+  top: 16px;
+  width: 16px;
+}
+
+.flight-booking .ellipse-6 {
+  background-color: #001b45;
+  border-radius: 4px;
+  height: 8px;
+  left: 4px;
+  position: relative;
+  top: 4px;
+  width: 8px;
+}
+
+.flight-booking .overlap-11 {
+  background-color: #ffffff;
+  border: 0.5px solid;
+  border-color: #00000033;
+  border-radius: 8px;
+  height: 48px;
+  left: 306px;
+  position: absolute;
+  top: 64px;
+  width: 272px;
+}
+
+.flight-booking .text-wrapper-36 {
+  color: #000814;
+  font-family: "Manrope", Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  left: 40px;
+  letter-spacing: 0.08px;
+  line-height: 20px;
+  opacity: 0.5;
+  position: absolute;
+  top: 14px;
+  white-space: nowrap;
+}
+
+.flight-booking .vuesax-linear {
+  height: 16px !important;
+  left: 14px !important;
+  position: absolute !important;
+  top: 16px !important;
+  width: 16px !important;
+}
+
+.flight-booking .overlap-12 {
+  background-color: #ffffff;
+  border: 0.5px solid;
+  border-color: #00000033;
+  border-radius: 8px;
+  height: 48px;
+  left: 602px;
+  position: absolute;
+  top: 64px;
+  width: 164px;
+}
+
+.flight-booking .back {
+  height: 16px;
+  left: 112px;
+  position: absolute;
+  top: 16px;
+  width: 16px;
+}
+
+.flight-booking .back-2 {
+  height: 16px;
+  left: 136px;
+  position: absolute;
+  top: 16px;
+  width: 16px;
+}
+
+.flight-booking .map {
+  background-color: #ffffff;
+  height: 24px;
+  left: 12px;
+  opacity: 0.5;
+  position: absolute;
+  top: 12px;
+  width: 24px;
+}
+
+.flight-booking .group-17 {
+  height: 18px;
+  left: 2px;
+  position: absolute;
+  top: 3px;
+  width: 20px;
+}
+
+.flight-booking .overlap-13 {
+  background-color: #ffffff;
+  border: 0.5px solid;
+  border-color: #00000033;
+  border-radius: 8px;
+  height: 48px;
+  left: 776px;
+  position: absolute;
+  top: 64px;
+  width: 164px;
+}
+
+.flight-booking .text-wrapper-37 {
+  color: #000814;
+  font-family: "Manrope", Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  left: 12px;
+  letter-spacing: 0.08px;
+  line-height: 20px;
+  opacity: 0.5;
+  position: absolute;
+  top: 14px;
+  white-space: nowrap;
+}
+
+.flight-booking .pyramid-wrapper {
+  background-color: #001b45;
+  border-radius: 8px;
+  height: 48px;
+  left: 952px;
+  position: absolute;
+  top: 64px;
+  width: 48px;
+}
+
+.flight-booking .pyramid {
+  height: 24px;
+  left: 12px;
+  position: relative;
+  top: 12px;
+  width: 24px;
+}
+
+.flight-booking .group-18 {
+  height: 16px;
+  left: 4px;
+  position: relative;
+  top: 4px;
+  width: 16px;
+}
+
+.flight-booking .overlap-group-5 {
+  height: 18px;
+  left: -1px;
+  position: relative;
+  top: -1px;
+  width: 18px;
+}
+
+.flight-booking .ellipse-7 {
+  border: 1.5px solid;
+  border-color: #ffffff;
+  border-radius: 8.25px;
+  height: 16px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 16px;
+}
+
+.flight-booking .vector-8 {
+  height: 4px;
+  left: 13px;
+  position: absolute;
+  top: 13px;
+  width: 4px;
+}
+
+.flight-booking .back-3 {
+  height: 24px;
+  left: 446px;
+  position: absolute;
+  top: 24px;
+  width: 24px;
+}
+
+.flight-booking .back-4 {
+  height: 24px;
+  left: 255px;
+  position: absolute;
+  top: 24px;
+  width: 24px;
+}
+
+.flight-booking .back-5 {
+  height: 24px;
+  left: 133px;
+  position: absolute;
+  top: 24px;
+  width: 24px;
+}
+
+.flight-booking .profile-2 {
+  height: 24px;
+  left: 197px;
+  opacity: 0.5;
+  position: absolute;
+  top: 24px;
+  width: 24px;
+}
+
+.flight-booking .ellipse-8 {
+  border: 1.5px solid;
+  border-color: #000000;
+  border-radius: 4.75px;
+  height: 10px;
+  left: 7px;
+  position: absolute;
+  top: 2px;
+  width: 10px;
+}
+
+.flight-booking .rectangle-5 {
+  height: 8px;
+  left: 3px;
+  position: absolute;
+  top: 13px;
+  width: 18px;
+}
+
+.flight-booking .trash-can {
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 24px;
+  width: 24px;
+}
+
+.flight-booking .text-wrapper-38 {
+  color: #000814;
+  font-family: "Manrope", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 56px;
+  letter-spacing: 0.18px;
+  line-height: 24px;
+  position: absolute;
+  top: 24px;
+  white-space: nowrap;
+}
+
+.flight-booking .text-wrapper-39 {
+  color: #000814;
+  font-family: "Manrope", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 229px;
+  letter-spacing: 0.18px;
+  line-height: 24px;
+  position: absolute;
+  top: 24px;
+  white-space: nowrap;
+}
+
+.flight-booking .text-wrapper-40 {
+  color: #000814;
+  font-family: "Manrope", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 319px;
+  letter-spacing: 0.18px;
+  line-height: 24px;
+  position: absolute;
+  top: 24px;
+  white-space: nowrap;
+}
+
+.flight-booking .group-19 {
+  height: 550px;
+  left: 6px;
+  position: absolute;
+  top: 324px;
+  width: 1026px;
+}
+
+.flight-booking .group-20 {
+  height: 158px;
+  left: 0;
+  position: absolute;
+  top: 44px;
+  width: 451px;
+}
+
+.flight-booking .overlap-group-6 {
+  background-color: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0px 10px 54px #0000000d;
+  height: 158px;
+  position: relative;
+  width: 441px;
+}
+
+.flight-booking .mask-2 {
+  height: 142px;
+  left: 8px;
+  object-fit: cover;
+  position: absolute;
+  top: 8px;
+  width: 164px;
+}
+
+.flight-booking .text-wrapper-41 {
+  color: #000814;
+  font-family: "Manrope", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 184px;
+  letter-spacing: 0.08px;
+  line-height: 20px;
+  opacity: 0.5;
+  position: absolute;
+  top: 43px;
+  white-space: nowrap;
+}
+
+.flight-booking .text-wrapper-42 {
+  color: #000814;
+  font-family: "Manrope", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 184px;
+  letter-spacing: 0.08px;
+  line-height: 20px;
+  opacity: 0.5;
+  position: absolute;
+  top: 71px;
+  white-space: nowrap;
+}
+
+.flight-booking .text-wrapper-43 {
+  color: #000814;
+  font-family: "Manrope", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 184px;
+  letter-spacing: 0;
+  line-height: 16px;
+  opacity: 0.5;
+  position: absolute;
+  top: 97px;
+  white-space: nowrap;
+}
+
+.flight-booking .text-wrapper-44 {
+  color: #000814;
+  font-family: "Manrope", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 184px;
+  letter-spacing: 0.18px;
+  line-height: 24px;
+  position: absolute;
+  top: 11px;
+  white-space: nowrap;
+}
+
+.flight-booking .text-wrapper-45 {
+  color: #001b45;
+  font-family: "Manrope", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  left: 184px;
+  letter-spacing: 0.18px;
+  line-height: 24px;
+  position: absolute;
+  top: 123px;
+  white-space: nowrap;
+}
+
+.flight-booking .group-21 {
+  height: 158px;
+  left: 0;
+  position: absolute;
+  top: 218px;
+  width: 451px;
+}
+
+.flight-booking .group-22 {
+  height: 158px;
+  left: 0;
+  position: absolute;
+  top: 392px;
+  width: 451px;
+}
+
+.flight-booking .group-23 {
+  height: 506px;
+  left: 465px;
+  position: absolute;
+  top: 44px;
+  width: 577px;
+}
+
+.flight-booking .overlap-14 {
+  background-color: #ffffff;
+  background-image: url(../../../static/img/mask-group.png);
+  background-size: 100% 100%;
+  border-radius: 8px;
+  box-shadow: 0px 10px 54px #0000000d;
+  height: 506px;
+  position: relative;
+  width: 559px;
+}
+
+.flight-booking .group-24 {
+  height: 20px;
+  left: 320px;
+  position: absolute;
+  top: 235px;
+  transform: rotate(90deg);
+  width: 188px;
+}
+
+.flight-booking .vector-9 {
+  height: 66px;
+  left: 50px;
+  object-fit: cover;
+  position: absolute;
+  top: -23px;
+  transform: rotate(-90deg);
+  width: 2px;
+}
+
+.flight-booking .vector-10 {
+  height: 66px;
+  left: 136px;
+  object-fit: cover;
+  position: absolute;
+  top: -23px;
+  transform: rotate(-90deg);
+  width: 2px;
+}
+
+.flight-booking .black-plane {
+  height: 20px;
+  left: 84px;
+  position: absolute;
+  top: 0;
+  transform: rotate(-90deg);
+  width: 20px;
+}
+
+.flight-booking .group-25 {
+  height: 18px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 18px;
+}
+
+.flight-booking .overlap-group-7 {
+  border-radius: 9px;
+  height: 18px;
+  position: relative;
+}
+
+.flight-booking .ellipse-9 {
+  background-color: #feac23;
+  border-radius: 7px;
+  height: 14px;
+  left: 2px;
+  opacity: 0.3;
+  position: absolute;
+  top: 2px;
+  width: 14px;
+}
+
+.flight-booking .ellipse-10 {
+  background-color: #feac23;
+  border-radius: 9px;
+  height: 18px;
+  left: 0;
+  opacity: 0.2;
+  position: absolute;
+  top: 0;
+  width: 18px;
+}
+
+.flight-booking .ellipse-11 {
+  background-color: #feac23;
+  border-radius: 4px;
+  height: 8px;
+  left: 5px;
+  opacity: 0.6;
+  position: absolute;
+  top: 5px;
+  width: 8px;
+}
+
+.flight-booking .group-26 {
+  height: 18px;
+  left: 170px;
+  position: absolute;
+  top: 1px;
+  width: 18px;
+}
+
+.flight-booking .text-wrapper-46 {
+  color: #00337e;
+  font-family: "Manrope", Helvetica;
+  font-size: 18px;
+  font-weight: 700;
+  left: 353px;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: absolute;
+  top: 145px;
+  white-space: nowrap;
+}
+
+.flight-booking .text-wrapper-47 {
+  color: #feac23;
+  font-family: "Manrope", Helvetica;
+  font-size: 18px;
+  font-weight: 700;
+  left: 436px;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: absolute;
+  top: 318px;
+  white-space: nowrap;
+}
+
+.flight-booking .text-wrapper-48 {
+  color: #000814;
+  font-family: "Manrope", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  left: 288px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 362px;
+  white-space: nowrap;
+}
+
+.flight-booking .text-wrapper-49 {
+  color: #000814;
+  font-family: "Manrope", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  left: 355px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 362px;
+  white-space: nowrap;
+}
+
+.flight-booking .text-wrapper-50 {
+  color: #000814;
+  font-family: "Manrope", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  left: 464px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 362px;
+  white-space: nowrap;
+}
+
+.flight-booking .overlap-15 {
+  background-color: #001b45;
+  border-radius: 8px;
+  height: 48px;
+  left: 289px;
+  position: absolute;
+  top: 434px;
+  width: 246px;
+}
+
+.flight-booking .text-wrapper-51 {
+  color: #ffffff;
+  font-family: "Manrope", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 67px;
+  letter-spacing: 0.18px;
+  line-height: 24px;
+  position: absolute;
+  top: 12px;
+  white-space: nowrap;
+}
+
+.flight-booking .text-wrapper-52 {
+  color: #000814;
+  font-family: "Manrope", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  left: 288px;
+  letter-spacing: 0;
+  line-height: 16px;
+  opacity: 0.6;
+  position: absolute;
+  top: 394px;
+  white-space: nowrap;
+}
+
+.flight-booking .text-wrapper-53 {
+  color: #000814;
+  font-family: "Manrope", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  left: 355px;
+  letter-spacing: 0;
+  line-height: 16px;
+  opacity: 0.6;
+  position: absolute;
+  top: 394px;
+  white-space: nowrap;
+}
+
+.flight-booking .text-wrapper-54 {
+  color: #000814;
+  font-family: "Manrope", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  left: 464px;
+  letter-spacing: 0;
+  line-height: 16px;
+  opacity: 0.6;
+  position: absolute;
+  top: 394px;
+  white-space: nowrap;
+}
+
+.flight-booking .group-27 {
+  background-color: #ffffff;
+  border: 0.5px solid;
+  border-color: #00081433;
+  height: 304px;
+  left: 6px;
+  position: absolute;
+  top: 950px;
+  width: 1024px;
+}
+
+.flight-booking .group-28 {
+  height: 57px;
+  left: 22px;
+  position: absolute;
+  top: 22px;
+  width: 1002px;
+}
+
+.flight-booking .text-wrapper-55 {
+  color: #000814;
+  font-family: "Manrope", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 64px;
+  letter-spacing: 0;
+  line-height: 16px;
+  opacity: 0.5;
+  position: absolute;
+  top: 40px;
+  white-space: nowrap;
+}
+
+.flight-booking .text-wrapper-56 {
+  color: #000814;
+  font-family: "Manrope", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  left: 151px;
+  letter-spacing: 0;
+  line-height: 16px;
+  opacity: 0.5;
+  position: absolute;
+  top: 41px;
+  white-space: nowrap;
+}
+
+.flight-booking .text-wrapper-57 {
+  color: #000814;
+  font-family: "Manrope", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  left: 407px;
+  letter-spacing: 0;
+  line-height: 16px;
+  opacity: 0.5;
+  position: absolute;
+  top: 41px;
+  white-space: nowrap;
+}
+
+.flight-booking .text-wrapper-58 {
+  color: #000814;
+  font-family: "Manrope", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 442px;
+  letter-spacing: 0;
+  line-height: 16px;
+  opacity: 0.5;
+  position: absolute;
+  top: 40px;
+  white-space: nowrap;
+}
+
+.flight-booking .text-wrapper-59 {
+  color: #000814;
+  font-family: "Manrope", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  left: 565px;
+  letter-spacing: 0;
+  line-height: 16px;
+  opacity: 0.5;
+  position: absolute;
+  top: 24px;
+  white-space: nowrap;
+}
+
+.flight-booking .text-wrapper-60 {
+  color: #000814;
+  font-family: "Manrope", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  left: 693px;
+  letter-spacing: 0;
+  line-height: 16px;
+  opacity: 0.5;
+  position: absolute;
+  top: 24px;
+  white-space: nowrap;
+}
+
+.flight-booking .text-wrapper-61 {
+  color: #000814;
+  font-family: "Manrope", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  left: 800px;
+  letter-spacing: 0;
+  line-height: 16px;
+  opacity: 0.5;
+  position: absolute;
+  top: 24px;
+  white-space: nowrap;
+}
+
+.flight-booking .text-wrapper-62 {
+  color: #000814;
+  font-family: "Manrope", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 64px;
+  letter-spacing: 0.22px;
+  line-height: 32px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.flight-booking .text-wrapper-63 {
+  color: #000814;
+  font-family: "Manrope", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 442px;
+  letter-spacing: 0.22px;
+  line-height: 32px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.flight-booking .overlap-group-8 {
+  height: 6px;
+  left: 151px;
+  position: absolute;
+  top: 29px;
+  width: 281px;
+}
+
+.flight-booking .vector-11 {
+  height: 2px;
+  left: 3px;
+  position: absolute;
+  top: 2px;
+  width: 275px;
+}
+
+.flight-booking .ellipse-12 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #001b45;
+  border-radius: 3px;
+  height: 6px;
+  left: 275px;
+  position: absolute;
+  top: 0;
+  width: 6px;
+}
+
+.flight-booking .text-wrapper-64 {
+  color: #000814;
+  font-family: "Manrope", Helvetica;
+  font-size: 10px;
+  font-weight: 400;
+  left: 246px;
+  letter-spacing: 0;
+  line-height: 16px;
+  opacity: 0.6;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.flight-booking .overlap-16 {
+  background-color: #001b45;
+  border-radius: 20px;
+  height: 40px;
+  left: 0;
+  position: absolute;
+  top: 12px;
+  width: 40px;
+}
+
+.flight-booking .text-wrapper-65 {
+  color: #ffffff;
+  font-family: "Manrope", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  left: 6px;
+  letter-spacing: 0.08px;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 10px;
+  white-space: nowrap;
+}
+
+.flight-booking .group-29 {
+  background-image: url(../../../static/img/vuesax-linear-more-1.svg);
+  background-size: 100% 100%;
+  height: 24px;
+  left: 956px;
+  position: absolute;
+  top: 20px;
+  width: 24px;
+}
+
+.flight-booking .group-30 {
+  height: 57px;
+  left: 22px;
+  position: absolute;
+  top: 102px;
+  width: 1002px;
+}
+
+.flight-booking .text-wrapper-66 {
+  color: #000814;
+  font-family: "Manrope", Helvetica;
+  font-size: 10px;
+  font-weight: 400;
+  left: 241px;
+  letter-spacing: 0;
+  line-height: 16px;
+  opacity: 0.6;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.flight-booking .text-wrapper-67 {
+  color: #ffffff;
+  font-family: "Manrope", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  left: 5px;
+  letter-spacing: 0.08px;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 10px;
+  white-space: nowrap;
+}

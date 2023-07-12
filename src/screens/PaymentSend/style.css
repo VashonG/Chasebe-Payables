@@ -1,0 +1,639 @@
+.payment-send {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.payment-send .div {
+  background-color: #ffffff;
+  border: 0px none;
+  height: 900px;
+  position: relative;
+  width: 1440px;
+}
+
+.payment-send .card {
+  height: 724px;
+  left: 345px;
+  position: absolute;
+  top: 128px;
+  width: 750px;
+}
+
+.payment-send .item {
+  height: 48px;
+  left: 32px;
+  position: absolute;
+  top: 644px;
+  width: 309px;
+}
+
+.payment-send .overlap-group {
+  background-color: #f4f7f7;
+  border-radius: 12px;
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 48px;
+}
+
+.payment-send .ic-description {
+  height: 24px;
+  left: 12px;
+  position: relative;
+  top: 12px;
+  width: 24px;
+}
+
+.payment-send .bounds {
+  height: 24px;
+  left: 3495px;
+  position: absolute;
+  top: -604px;
+  width: 24px;
+}
+
+.payment-send .shape {
+  height: 20px;
+  left: 4px;
+  position: absolute;
+  top: 2px;
+  width: 16px;
+}
+
+.payment-send .text-wrapper {
+  color: #202020;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 64px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 1px;
+  white-space: nowrap;
+}
+
+.payment-send .customize-track-and {
+  color: #84818a;
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 64px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 27px;
+}
+
+.payment-send .recent-contact {
+  height: 198px;
+  left: 32px;
+  position: absolute;
+  top: 282px;
+  width: 684px;
+}
+
+.payment-send .button {
+  height: 24px;
+  left: 541px;
+  position: absolute;
+  top: 2px;
+  width: 143px;
+}
+
+.payment-send .text {
+  height: 24px;
+  position: relative;
+}
+
+.payment-send .text-wrapper-2 {
+  color: #08024a;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.payment-send .text-wrapper-3 {
+  color: #202020;
+  font-family: "Poppins", Helvetica;
+  font-size: 18px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.payment-send .item-2 {
+  height: 148px;
+  left: 0;
+  position: absolute;
+  top: 50px;
+  width: 684px;
+}
+
+.payment-send .item-3 {
+  background-color: #f4f7f7;
+  border-radius: 24px;
+  height: 148px;
+  left: 144px;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 108px;
+}
+
+.payment-send .image {
+  background-color: #f7bf51;
+  border-radius: 32px;
+  height: 64px;
+  left: 22px;
+  position: absolute;
+  top: 16px;
+  width: 64px;
+}
+
+.payment-send .leah-edwards {
+  color: #474549;
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 92px;
+}
+
+.payment-send .item-4 {
+  background-color: #f4f7f7;
+  border-radius: 24px;
+  height: 148px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 108px;
+}
+
+.payment-send .mike-townsend {
+  color: #474549;
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 92px;
+}
+
+.payment-send .item-5 {
+  background-color: #f4f7f7;
+  border-radius: 24px;
+  height: 148px;
+  left: 288px;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 108px;
+}
+
+.payment-send .item-6 {
+  background-color: #ffffff;
+  border-radius: 32px;
+  height: 64px;
+  left: 22px;
+  position: absolute;
+  top: 16px;
+  width: 64px;
+}
+
+.payment-send .img {
+  height: 37px;
+  left: 3221px;
+  position: absolute;
+  top: -278px;
+  width: 37px;
+}
+
+.payment-send .shape-2 {
+  height: 24px;
+  left: 20px;
+  position: absolute;
+  top: 20px;
+  width: 24px;
+}
+
+.payment-send .text-wrapper-4 {
+  color: #474549;
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 26px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 92px;
+}
+
+.payment-send .item-7 {
+  background-color: #f4f7f7;
+  border-radius: 24px;
+  height: 148px;
+  left: 432px;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 108px;
+}
+
+.payment-send .item-8 {
+  background-color: #f4f7f7;
+  border-radius: 24px;
+  height: 148px;
+  left: 576px;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 108px;
+}
+
+.payment-send .cody-coleman {
+  color: #474549;
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 22px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 92px;
+}
+
+.payment-send .send-payment {
+  height: 90px;
+  left: 32px;
+  position: absolute;
+  top: 144px;
+  width: 686px;
+}
+
+.payment-send .form {
+  height: 48px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 42px;
+  width: 686px;
+}
+
+.payment-send .overlap-group-2 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #dbdadd;
+  border-radius: 12px;
+  height: 50px;
+  left: -1px;
+  position: relative;
+  top: -1px;
+  width: 688px;
+}
+
+.payment-send .button-2 {
+  background-color: #08024a;
+  border-radius: 12px;
+  height: 48px;
+  left: 568px;
+  position: absolute;
+  top: 0;
+  width: 118px;
+}
+
+.payment-send .send-invitation {
+  height: 20px;
+  left: 16px;
+  overflow: hidden;
+  position: absolute;
+  top: 14px;
+  width: 31px;
+}
+
+.payment-send .text-wrapper-5 {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.payment-send .ic-arrow-forward {
+  height: 16px;
+  left: 87px;
+  position: absolute;
+  top: 16px;
+  width: 16px;
+}
+
+.payment-send .name-username-ema {
+  color: #84818a;
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 14px;
+}
+
+.payment-send .topbar {
+  height: 80px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.payment-send .overlap {
+  height: 2px;
+  left: 0;
+  position: absolute;
+  top: 78px;
+  width: 1440px;
+}
+
+.payment-send .line {
+  background-color: #dbdadd;
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 1440px;
+}
+
+.payment-send .selector {
+  background-color: #08024a;
+  height: 2px;
+  left: 442px;
+  position: absolute;
+  top: 0;
+  width: 64px;
+}
+
+.payment-send .div-wrapper {
+  height: 20px;
+  left: 340px;
+  overflow: hidden;
+  position: absolute;
+  top: 30px;
+  width: 70px;
+}
+
+.payment-send .text-wrapper-6 {
+  color: #202020;
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.payment-send .text-2 {
+  height: 20px;
+  left: 442px;
+  overflow: hidden;
+  position: absolute;
+  top: 30px;
+  width: 64px;
+}
+
+.payment-send .text-3 {
+  height: 20px;
+  left: 538px;
+  overflow: hidden;
+  position: absolute;
+  top: 30px;
+  width: 64px;
+}
+
+.payment-send .text-4 {
+  height: 20px;
+  left: 634px;
+  overflow: hidden;
+  position: absolute;
+  top: 30px;
+  width: 45px;
+}
+
+.payment-send .text-5 {
+  height: 20px;
+  left: 711px;
+  overflow: hidden;
+  position: absolute;
+  top: 30px;
+  width: 35px;
+}
+
+.payment-send .text-6 {
+  height: 20px;
+  left: 778px;
+  overflow: hidden;
+  position: absolute;
+  top: 30px;
+  width: 32px;
+}
+
+.payment-send .profile {
+  height: 32px;
+  left: 1198px;
+  overflow: hidden;
+  position: absolute;
+  top: 24px;
+  width: 92px;
+}
+
+.payment-send .base {
+  background-color: #f7bf51;
+  border: 1px solid;
+  border-color: #ececec;
+  border-radius: 17px;
+  height: 34px;
+  left: -1px;
+  position: absolute;
+  top: -1px;
+  width: 34px;
+}
+
+.payment-send .text-wrapper-7 {
+  color: #202020;
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  left: 44px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 6px;
+}
+
+.payment-send .overlap-2 {
+  height: 28px;
+  left: 1150px;
+  position: absolute;
+  top: 24px;
+  width: 28px;
+}
+
+.payment-send .ic-notifications {
+  height: 24px;
+  left: 0;
+  position: absolute;
+  top: 4px;
+  width: 24px;
+}
+
+.payment-send .bounds-2 {
+  height: 24px;
+  left: 3872px;
+  position: absolute;
+  top: 168px;
+  width: 24px;
+}
+
+.payment-send .shape-3 {
+  height: 20px;
+  left: 3px;
+  position: absolute;
+  top: 2px;
+  width: 17px;
+}
+
+.payment-send .notification {
+  background-color: #f7bf51;
+  border-radius: 8px;
+  height: 16px;
+  left: 12px;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 16px;
+}
+
+.payment-send .text-wrapper-8 {
+  color: #f7f7f7;
+  font-family: "Poppins", Helvetica;
+  font-size: 11px;
+  font-weight: 500;
+  left: 4px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.payment-send .cuboid-logo {
+  height: 78px;
+  left: 133px;
+  position: absolute;
+  top: 0;
+  width: 150px;
+}
+
+.payment-send .overlap-3 {
+  height: 78px;
+  position: relative;
+}
+
+.payment-send .logo {
+  height: 32px;
+  left: 17px;
+  position: absolute;
+  top: 24px;
+  width: 32px;
+}
+
+.payment-send .overlap-group-3 {
+  height: 29px;
+  left: 1px;
+  position: relative;
+  top: 2px;
+  width: 29px;
+}
+
+.payment-send .shape-4 {
+  background-color: #a0a0a0;
+  border: 1px solid;
+  border-color: #202020;
+  height: 15px;
+  left: 14px;
+  position: absolute;
+  top: 0;
+  width: 15px;
+}
+
+.payment-send .path {
+  height: 28px;
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: 28px;
+}
+
+.payment-send .shape-5 {
+  background-color: #202020;
+  border: 1px solid;
+  height: 16px;
+  left: 0;
+  position: absolute;
+  top: 13px;
+  width: 16px;
+}
+
+.payment-send .path-2 {
+  height: 14px;
+  left: 14px;
+  position: absolute;
+  top: 1px;
+  width: 14px;
+}
+
+.payment-send .cuboid {
+  height: 19px;
+  left: 61px;
+  position: absolute;
+  top: 30px;
+  width: 81px;
+}
+
+.payment-send .chasebe {
+  height: 78px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 150px;
+}

@@ -1,0 +1,82 @@
+.box {
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.box .payment-send-box-wrapper {
+  border: 0px none;
+  height: 655px;
+  width: 750px;
+}
+
+.box .payment-send-box-instance {
+  background-color: unset !important;
+  border-radius: unset !important;
+  left: 0 !important;
+  position: fixed !important;
+  top: 0 !important;
+}
+
+.box .payment-send-box-two-wrapper {
+  border: 0px none;
+  height: 876px;
+  position: relative;
+  width: 554px;
+}
+
+
+.box .payment-send-box-two-instance {
+  background-color: unset !important;
+  border-radius: unset !important;
+  left: 0 !important;
+  overflow: unset !important;
+  position: fixed !important;
+  top: 0 !important;
+}
+
+.box .design-component-instance-node {
+  height: 22px !important;
+  left: unset !important;
+  top: 1px !important;
+  width: 22px !important;
+}
+
+.box .payment-send-box-two-2 {
+  left: 10px !important;
+  top: 0 !important;
+}
+
+.box .payment-send-box-two-3 {
+  left: 1px !important;
+  top: 0 !important;
+}
+
+.box .payment-send-box-two-4 {
+  border-color: unset !important;
+  height: 13px !important;
+  left: 0 !important;
+  top: 10px !important;
+  width: 13px !important;
+}
+
+.box .payment-send-box-two-5 {
+  left: 11px !important;
+  top: 1px !important;
+}
+
+.box .base-wrapper {
+  border: 0px none;
+  height: 724px;
+  width: 750px;
+}
+
+.box .base-instance {
+  background-color: unset !important;
+  border-radius: unset !important;
+  left: 0 !important;
+  position: fixed !important;
+  top: 0 !important;
+}
